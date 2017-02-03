@@ -1,6 +1,6 @@
 # AXA Data Challenge
 
-Data Challenge provided by AXA in november 2016 at École Polytechnique.
+Data Challenge provided by AXA in november 2016 at École Polytechnique, in which I ended up finishing 1st with my team.
 The purpose is to predict the number of incoming calls for the AXA call center in France, on a per "half-hour" time slot basis.
 
 ## HOW TO USE
